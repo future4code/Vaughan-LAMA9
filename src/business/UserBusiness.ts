@@ -4,6 +4,7 @@ import { IdGenerator } from "../services/IdGenerator";
 import { HashManager } from "../services/HashManager";
 import { Authenticator } from "../services/Authenticator";
 
+
 export class UserBusiness {
 
     async createUser(user: UserInputDTO) {
