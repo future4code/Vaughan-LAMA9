@@ -12,6 +12,7 @@ export class UserBusiness {
         if(user.email.indexOf("@") === -1){
             throw new Error("Email invalido")
         }
+        
         const idGenerator = new IdGenerator();
         const id = idGenerator.generate();
 
