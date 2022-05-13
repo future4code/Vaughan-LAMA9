@@ -1,6 +1,8 @@
 # Labenu Music Awards
 
-#### documentaçao: 
+#### documentaçao: https://documenter.getpostman.com/view/19295583/UyxhonQY
+
+api: https://lama-lab.herokuapp.com
 
 # Descrição:
 
